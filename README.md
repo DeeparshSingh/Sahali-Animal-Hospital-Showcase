@@ -78,7 +78,7 @@ The platform is built to solve several core needs:
 
 ### Home Page Header
 <!-- PLACEHOLDER: Add home page header screenshot here -->
-![Home Page Header](placeholder-image-url)
+![Home Page Header](home-hero.png)
 
 </td>
 <td width="50%">
