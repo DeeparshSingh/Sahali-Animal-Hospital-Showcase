@@ -85,7 +85,7 @@ The platform is built to solve several core needs:
 
 ### Services Grid
 <!-- PLACEHOLDER: Add services grid screenshot here -->
-![Services Grid](placeholder-image-url)
+![Services Grid](assets/services.png)
 
 </td>
 </tr>
@@ -93,7 +93,7 @@ The platform is built to solve several core needs:
 
 ### Contact and Registration Form
 <!-- PLACEHOLDER: Add contact form screenshot here -->
-![Contact Form](placeholder-image-url)
+![Contact Form](assets/contact.png)
 
 ---
 
