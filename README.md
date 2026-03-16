@@ -9,7 +9,7 @@
 
 <div align="center">
 
-**[🚀 Live Demo](https://sahalianimalhospital.ca)**
+**[🚀 Visit Production Site](https://sahalianimalhospital.ca)**
 
 </div>
 
@@ -190,6 +190,6 @@ This project is a custom commercial website developed specifically for Sahali An
 
 Made with ❤️ for Sahali Animal Hospital
 
-[🚀 Live Demo](https://sahalianimalhospital.ca)
+[🚀 Visit Production Site](https://sahalianimalhospital.ca)
 
 </div>
